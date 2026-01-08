@@ -1,0 +1,12 @@
+body{
+    background-color: lightgray !important;
+}
+.container
+{
+    background-color: white;
+    width: 900px;
+}
+.strikethrough {
+    text-decoration: line-through;
+    opacity: 0.6;
+  }
